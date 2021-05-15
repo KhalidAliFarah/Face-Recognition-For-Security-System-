@@ -1,14 +1,15 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# Face Recognition (For Security System)
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Face Recognition (For Security System)
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- [Md Ashraful Islam B032020050 ]
+- [Khalid Ali Farah  B032020051]
+- [Abdulrahman derhem  B031910490]
+- [Jurham Rahman  B031920506]
+- [Abohatem Aiman  B031920508 ]
 
 
 - [ ] **Objectives:**
@@ -31,7 +32,7 @@ As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
-## C.  DATASET
+## C.  DATASET     no need 
 
 In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
 
@@ -87,7 +88,7 @@ To help keep her spirits up, Prajna decided to distract herself by applying comp
 - Worst case scenario — it gave her a much needed mental escape
 
 
-## D.   PROJECT STRUCTURE
+## D.   PROJECT STRUCTURE  no need
 
 The following directory is our structure of our project:
 - $ tree --dirsfirst --filelimit 10
@@ -178,7 +179,7 @@ Looking at Figure 4, we can see there are little signs of overfitting, with the 
 Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
 
 
-## F.  RESULT AND CONCLUSION
+## F.  RESULT AND CONCLUSION  need
 
 Detecting COVID-19 face masks with OpenCV in real-time
 
@@ -196,7 +197,7 @@ In Figure 5, you can see that our face mask detector is capable of running in re
 
 
 
-## G.   PROJECT PRESENTATION 
+## G.   PROJECT PRESENTATION   need
 
 In this project, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
 
