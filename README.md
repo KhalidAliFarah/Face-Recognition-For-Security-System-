@@ -26,7 +26,7 @@ A proposed solution to the mentioned matter is a Face Recognition Security Syste
 This project is about an anti-theft security system using face recognition based on Raspberry pi. Anti-theft security system has been launched for many years but most of them are just a CCTV, IP camera or door sensor alert system. It could be more efficient with uses of face recognition. The design of anti-theft security system is based on human face recognition and remote monitoring technology. It will verify the person identity that goes near to the camera within certain distance. Only the people who match the identity with database and key in the correct password have the right to entry. A mobile application telegram and image processing technique LBP based have been involved in this system. Electric door lock solenoid, keypad and LCD display will combined operate the accessibility of door. An ultrasonic sensor is used to detect the person distance between the door. Face recognition will only start to function when someone goes near the door within certain distance. An alert message and photo taken will send to owner mobile phone via telegram with WIFI when the face recognition algorithms detect a stranger comes near the door and also a buzzer will be triggered to act as an alarm system. Owner can control the door locker and check the camera with the telegram application. The security system is designed for actual use in home condition with the uses of a microcontroller ARM Quad Cortex-A53.
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
+![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsV0n7Wdy6R4Q.jpeg)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 ## C.  INTRODUCTION
@@ -75,22 +75,9 @@ Despite of there are many similar products are available in the market, however 
 
 
 
-## G.   PROJECT PRESENTATION   need
+## G.   PROJECT PRESENTATION   
 
-In this project, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
 
-To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
-
-We fine-tuned MobileNetV2 on our mask/no mask dataset and obtained a classifier that is ~99% accurate.
-
-We then took this face mask classifier and applied it to both images and real-time video streams by:
-
-- Detecting faces in images/video
-- Extracting each individual face
-- Applying our face mask classifier
-
-Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
-
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HwOWxtg "demo")
 
 
