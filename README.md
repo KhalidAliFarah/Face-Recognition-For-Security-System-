@@ -20,7 +20,7 @@ This project is about an anti-theft security system using face recognition based
 
 
 
-![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/b19998daba6967d0b59430b74870b985e426d3b2/output.jpg)
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/1e0723f77e96a1422802a7a6f8547bc293cc0ce6/Face%20Recognition%20(For%20Security%20System)/input%20&%20output/output%201.jpg)
 
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
