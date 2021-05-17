@@ -11,18 +11,6 @@
 - [Jurham Rahman  B031920506]
 - [Abohatem Aiman  B031920508 ]
 
-
-##  PROJECT OBJECTIVES 
-Despite of there are many similar products are available in the market, however there are still a lot of improvement can be done. The objectives of this project are: 
-
-1.To design and develop an anti-theft security system which is portable, high efficiency, low cost and easy to operate. 
-2.To detect the present of person when he or she reach in front the door and the face recognizer will recognize owner face. 
-3.To notify owner and start surveillance system in real time when stranger detected. 
-4.To record the door access about time, user and locker status. 
-5.To have door access time restrictions.
-
-
-
 ##  B. ABSTRACT 
 
 Today’s institutions are facing major security issues; consequently, they need several specially trained personnel to attain the desired security. These personnel, as human beings, make mistakes that might affect the level of security. 
@@ -43,12 +31,20 @@ Nowadays, the home security with only door locker is not enough to protect your 
 
 The scope of this project is developing an embedded system with the implement of face recognition algorithm. This project involves a new design with low-cost material but higher security level. Hence, it was design to against the weakness of security system on market. The boundary or coverage of this project was limited to household uses. The design architecture, the structure of the embedded system and the programming skill are included in this project.
 
+## E. PROJECT OBJECTIVES 
+Despite of there are many similar products are available in the market, however there are still a lot of improvement can be done. The objectives of this project are: 
+
+1.To design and develop an anti-theft security system which is portable, high efficiency, low cost and easy to operate. 
+2.To detect the present of person when he or she reach in front the door and the face recognizer will recognize owner face. 
+3.To notify owner and start surveillance system in real time when stranger detected. 
+4.To record the door access about time, user and locker status. 
+5.To have door access time restrictions.
 
 
 
 
 
-## E.   ACHIEVEMENT
+## F.   ACHIEVEMENT
 
 1. Face detect and face recognition successful implement on door lock system. 
 2. A door lock system which unlock and lock the door by using phone, keypad or remote has been implemented. 
@@ -59,7 +55,7 @@ The scope of this project is developing an embedded system with the implement of
 
 
 
-## F.  RESULT AND CONCLUSION  
+## G.  RESULT AND CONCLUSION  
 
 
 
@@ -70,7 +66,7 @@ The scope of this project is developing an embedded system with the implement of
 
 
 
-## G.   PROJECT PRESENTATION   
+## H.   PROJECT PRESENTATION   
 
 
 [![demo](https://img.youtube.com/vi/-p7HwOWxtg/0.jpg)](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
