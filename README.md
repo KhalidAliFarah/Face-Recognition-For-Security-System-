@@ -12,7 +12,7 @@
 - [Abohatem Aiman  B031920508 ]
 
 
-- [ ] **Objectives:**
+##  PROJECT OBJECTIVES 
 Despite of there are many similar products are available in the market, however there are still a lot of improvement can be done. The objectives of this project are: 
 
 1.To design and develop an anti-theft security system which is portable, high efficiency, low cost and easy to operate. 
