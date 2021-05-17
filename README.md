@@ -1,7 +1,5 @@
 # Face Recognition (For Security System)
 
-![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)
-
 ## A. PROJECT SUMMARY
 
 **Project Title:** Face Recognition (For Security System)
@@ -78,6 +76,6 @@ Despite of there are many similar products are available in the market, however 
 ## H.   PROJECT PRESENTATION   
 
 
-[![demo](https://img.youtube.com/vi/-p7HwOWxtg/0.jpg)](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
+[![demo](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
 
 
