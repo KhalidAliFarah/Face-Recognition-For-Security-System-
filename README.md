@@ -35,9 +35,13 @@ The scope of this project is developing an embedded system with the implement of
 Despite of there are many similar products are available in the market, however there are still a lot of improvement can be done. The objectives of this project are: 
 
 1.To design and develop an anti-theft security system which is portable, high efficiency, low cost and easy to operate. 
+
 2.To detect the present of person when he or she reach in front the door and the face recognizer will recognize owner face. 
+
 3.To notify owner and start surveillance system in real time when stranger detected. 
+
 4.To record the door access about time, user and locker status. 
+
 5.To have door access time restrictions.
 
 
