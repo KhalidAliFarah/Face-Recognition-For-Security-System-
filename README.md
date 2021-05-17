@@ -22,7 +22,7 @@ This project is about an anti-theft security system using face recognition based
 
 
 
-![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/b19998daba6967d0b59430b74870b985e426d3b2/output.jpg)
 
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
