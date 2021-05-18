@@ -57,9 +57,6 @@ There are many difficulties found such as understanding the project features, st
 Finally, with the proper guidance and advice from lecturer, supervisor and also the research on previous products that had been studied, this project has been successfully completed in more efficiency way.
 
 
-[![Figure5](https://img.youtube.om/vi/wYwW7gAYyxw/0.jpg)](https://www.youtube.com/watch?v=wYwW7gAYyxw "Figure5")
-
-
 ## F.   PROJECT PRESENTATION   
 
 
