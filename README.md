@@ -48,6 +48,7 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 
 # System Block Diagram
 
+![Coding](Picture2.png)                             
 
 
 ## D. PROJECT STRUCTURE
