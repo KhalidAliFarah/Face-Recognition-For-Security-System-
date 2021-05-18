@@ -46,7 +46,7 @@ Firstly, the software part will be used is Telegram and Blynk. Both of them are 
 OpenCV will be used in this project to code the image processing algorithm. It is an open-source computer vision library compatible to run in Raspberry pi. 
 For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, keypad, 1602 LCD display, ultrasonic sensor module, camera module and mini buzzer. Raspberry pi will take responsible to process all the workload. When the ultrasonic sensor detects a person come near the door it will trigger the camera to start capture the person face and compare with the database if a stranger detected it will notify house owner with telegram via Wi-Fi and start giving alert with the buzzer. If the person was match with data-base then he or she will need to key in the password with keypad to unlock the solenoid locker.
 
-# System Block Diagram
+ System Block Diagram
 
 ![Coding](Picture2.png)                             
 
