@@ -61,7 +61,11 @@ System Flowchart
 Telegram 
 Telegram will send notify to owner about the surveillance status and capture photo. Telegram can be used to control the locker by sending command “On” or “Off” to control the locker and also capture photo by the command “C”. Command “S” can use to start a live cam and end it with the command “Stop”. Besides that, command “Shutdown” and “Rbt” can used to turn off the system and reboot the system. For checking the door access records can use command “Cr”. Time restrictions start time and finish time can be set with command “Rts d’DAY’ h’HOUR’ m’MINUTE’ ” and “Rtf d’DAY’ h’HOUR’ m’MINUTE’ ”.
 
+![Coding](Picture3.png)  
 
+The camera for face detection will only start to capture when the doorbell button was pressed. It could be improved with install an infrared PIR motion sensor to detect the present of visitor so it will automate the action of pressing the doorbell. It would be more effective and can notify the house owner on time when any stranger present in the house. The security can be improved due to this modification.
+
+![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)  
 
 ## D. PROJECT STRUCTURE
 COMING SOON
@@ -80,6 +84,6 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 ## F.   PROJECT PRESENTATION   
 
 
-[![demo](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
+[![demo](](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
 
 
