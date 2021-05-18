@@ -48,7 +48,19 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 
  System Block Diagram
 
-![Coding](Picture2.png)                             
+![Coding](Picture2.png)
+
+Raspberry Pi 
+When the Raspberry Pi start up the code will be run are main.py, led_vkey.js, lockstcheck.py and telegrambot.py. The main.py is functioned to control the whole system, led_vkey.js is to allow wireless network control by the mobile application Blynk to control the locker, telegrambot.py is to allow the communication between telegram and Raspberry Pi. The lockstcheck.py is use for door access records when the door locked and when the door unlocked. 
+
+System Flowchart
+
+![Coding](Picture1.png)   
+
+
+Telegram 
+Telegram will send notify to owner about the surveillance status and capture photo. Telegram can be used to control the locker by sending command “On” or “Off” to control the locker and also capture photo by the command “C”. Command “S” can use to start a live cam and end it with the command “Stop”. Besides that, command “Shutdown” and “Rbt” can used to turn off the system and reboot the system. For checking the door access records can use command “Cr”. Time restrictions start time and finish time can be set with command “Rts d’DAY’ h’HOUR’ m’MINUTE’ ” and “Rtf d’DAY’ h’HOUR’ m’MINUTE’ ”.
+
 
 
 ## D. PROJECT STRUCTURE
