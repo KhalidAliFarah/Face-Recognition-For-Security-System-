@@ -36,7 +36,7 @@ Figure 1 shows the AI intput of detecting face .
 
 ![Coding](output.jpg)
 
-Figure 2 shows the AI output of detecting who are real people. 
+Figure 2 shows the AI output of detecting who are house owner. 
 
 
 ## C. DATASET
