@@ -34,7 +34,7 @@ This project is about an anti-theft security system using face recognition based
 Figure 1 shows the AI intput of detecting face .
 
 
-![Coding](output.jpg)
+![Coding](output.png)
 
 Figure 2 shows the AI output of detecting who are house owner. 
 
