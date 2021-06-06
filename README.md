@@ -33,7 +33,7 @@ Figure 1 shows the AI intput of detecting face .
 
 ![Coding](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
 
-Figure 2 shows the AI output of detecting who are house owner. 
+
 
 
 ## C. DATASET
