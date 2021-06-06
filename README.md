@@ -31,7 +31,7 @@ This project is about an anti-theft security system using face recognition based
 Figure 1 shows the AI intput of detecting face .
 
 
-![Coding](output.png)
+![Coding](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
 
 Figure 2 shows the AI output of detecting who are house owner. 
 
@@ -49,7 +49,7 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 
 
 
-![Coding]()   
+![Coding](output.png)   
 
 
 Telegram 
@@ -79,6 +79,6 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 ## F.   PROJECT PRESENTATION   
 
 
-[![demo](](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
+[![demo](]()
 
 
