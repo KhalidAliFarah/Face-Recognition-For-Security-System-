@@ -47,10 +47,7 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 
 ![Coding]()
 
-Raspberry Pi 
-When the Raspberry Pi start up the code will be run are main.py, led_vkey.js, lockstcheck.py and telegrambot.py. The main.py is functioned to control the whole system, led_vkey.js is to allow wireless network control by the mobile application Blynk to control the locker, telegrambot.py is to allow the communication between telegram and Raspberry Pi. The lockstcheck.py is use for door access records when the door locked and when the door unlocked. 
 
-System Flowchart
 
 ![Coding]()   
 
