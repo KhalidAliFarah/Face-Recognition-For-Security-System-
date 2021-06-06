@@ -45,11 +45,11 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 
  
 
-![Coding]()
+![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)
 
 
 
-![Coding](output.png)   
+![Coding]()   
 
 
 Telegram 
@@ -59,7 +59,7 @@ Telegram will send notify to owner about the surveillance status and capture pho
 
 The camera for face detection will only start to capture when the doorbell button was pressed. It could be improved with install an infrared PIR motion sensor to detect the present of visitor so it will automate the action of pressing the doorbell. It would be more effective and can notify the house owner on time when any stranger present in the house. The security can be improved due to this modification.
 
-![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)  
+![Coding](output.png)  
 
 ## D. PROJECT STRUCTURE
 COMING SOON
