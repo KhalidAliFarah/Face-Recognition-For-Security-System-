@@ -19,9 +19,6 @@
 
 3.To notify owner and start surveillance system in real time when stranger detected. 
 
-4.To record the door access about time, user and locker status. 
-
-5.To have door access time restrictions.
 
 ##  B. ABSTRACT 
 
@@ -74,7 +71,8 @@ COMING SOON
 
 This project is used to implement the face recognition and the house security. Face recognition nowadays has been widely used on many areas especially on security. The house security can be improved with the implement of this product. It is design with low cost and efficient material. The improvement of technology had made the internet of thing no longer an expensive stuff and it can be modified and customized depend on our needs. 
 The system security on market with low budget have the problem like the face detection only will start to function when someone press the doorbell. Surveillance system will destroy by theft and without notify owner when stranger come in. Face recognition can be passed with owner face photo. Unable to unlock the door without key. 
-The motivation is to develop a low-cost security system to solve the issues exist on market product. A self-develop anti-theft security system using face recognition project have been started for solve the above issues. It can help to solve the issues like it can trigger the alarm and capture an image send to owner when a stranger is detected in front of door. The theft will get alert so he got no time to start breaking the door and destroy the security system. For overcome the weakness of face recognition that can be passed with owner face image so the door will only unlock with the correct password input with a keypad. Besides, it also has features like remote access control, reverse password, door access records and time restriction control. 
+The motivation is to develop a low-cost security system to solve the issues exist on market product. A self-develop anti-theft security system using face recognition project have been started for solve the above issues. It can help to solve the issues like it can trigger the alarm and capture an image send to owner when a stranger is detected in front of door. The theft will get alert so he got no time to start breaking the door and destroy the security system. For overcome the weakness of face recognition that can be passed with owner face image so the door will only unlock with the correct password input with a keypad. Besides, it also has features like remote access control, reverse password, door access records and time restriction control.
+
 Appropriate hardware and software are used as they are the crucial component to make this project. The hardware used is Raspberry Pi 3 model B which is main hardware, connected to several sensors and also connected to the Telegram mobile application. This project uses Python, Shell script, JavaScript programming language. Some Linux command prompt is also used while installing the drivers or library for the Python coding. 
 Moreover, this project contents consist several features, draft ideas, researches information and methodology about the Anti-theft security system using face recognition.
 There are many difficulties found such as understanding the project features, studying the limited case study related to this project and thinking about the basic structure and design of the system which make whole progress did not run smoothly. However, I still managed to solve it finally. During the process of doing the proposal, the hardware part and software part is categorized separately and then do research about the necessary component needed and its function involved in this project. 
