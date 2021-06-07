@@ -45,8 +45,16 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
   
  # Load a sample picture and learn how to recognize it
  
- ![Coding]() 
+ ![Coding](P.code/1.png) 
  
+ # Create arrays of known face encodings and their names
+ 
+ 
+ ![Coding](P.code/2.png) 
+ 
+ # Example of results:
+ 
+  ![Coding](P.code/after run.png) 
 
 ![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)
 
