@@ -31,7 +31,6 @@ This project is about an anti-theft security system using face recognition based
 Figure 1 shows the AI intput of detecting face .
 
 
-![Coding](https://www.youtube.com/atch?v=-p7HwOWxtg "demo")
 
 
 
@@ -56,11 +55,8 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
  
   ![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/b38a7ec3790cbfec07aead2ad1bd1898a67b72c8/P.code/after%20run.png) 
 
-![Coding](https://www.customcontrols.co.uk/wp-content/uploads/2020/04/Facial-Recognition.jpeg)
 
 
-
-![Coding](P.code/after run.png)   
 
 
 Telegram 
