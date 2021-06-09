@@ -93,7 +93,7 @@ The following directory is our structure of our project:
 -  15 files
 
 
-# E Training Face Character Recognition Model
+# E Training For Face Character Recognition Model
 
 Now we are ready to train our model using Keras, Tensorflow.
 
