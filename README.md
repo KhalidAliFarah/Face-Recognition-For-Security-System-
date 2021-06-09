@@ -108,6 +108,7 @@ $python serverApp.py
 This will deploy the flask web application to test and use our model and will be hosted at localhost:4500. To port forward this localhost website to the public domain, we will be using ngrok to host it.
 
 We will port forward it to the public domain using the following command:
+
 $ngrok http 4500
 
 The public address is then shown and can be used to access the website anywhere with an internet connection.
