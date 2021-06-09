@@ -93,7 +93,7 @@ The following directory is our structure of our project:
 -  15 files
 
 
-# E TRAINING FOR FACE CHARACTER RECOGNITION MODEL
+# E. TRAINING FOR FACE CHARACTER RECOGNITION MODEL
 
 Now we are ready to train our model using Keras, Tensorflow.
 
@@ -116,7 +116,7 @@ $ngrok http 4500
 The public address is then shown and can be used to access the website anywhere with an internet connection.
 
 
-## E.  RESULT AND CONCLUSION 
+## F.  RESULT AND CONCLUSION 
 
 This project is used to implement the face recognition and the house security. Face recognition nowadays has been widely used on many areas especially on security. The house security can be improved with the implement of this product. It is design with low cost and efficient material. The improvement of technology had made the internet of thing no longer an expensive stuff and it can be modified and customized depend on our needs. 
 The system security on market with low budget have the problem like the face detection only will start to function when someone press the doorbell. Surveillance system will destroy by theft and without notify owner when stranger come in. Face recognition can be passed with owner face photo. Unable to unlock the door without key. 
@@ -128,7 +128,7 @@ There are many difficulties found such as understanding the project features, st
 Finally, with the proper guidance and advice from lecturer, supervisor and also the research on previous products that had been studied, this project has been successfully completed in more efficiency way.
 
 
-## F.   PROJECT PRESENTATION   
+## G.   PROJECT PRESENTATION   
 
 Coming soon
 
