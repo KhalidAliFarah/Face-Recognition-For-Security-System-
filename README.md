@@ -123,6 +123,6 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 ## F.   PROJECT PRESENTATION   
 
 
-[![demo](]()
+
 
 
