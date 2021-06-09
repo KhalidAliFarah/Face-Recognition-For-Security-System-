@@ -74,7 +74,7 @@ The camera for face detection will only start to capture when the doorbell butto
 
 The following directory is our structure of our project:
 - $ tree --dirsfirst --filelimit 15
-- .
+.
 - │   ├── numpy as np
 - │   └── face_recognition
 - ├── cv2
@@ -122,7 +122,7 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 
 ## F.   PROJECT PRESENTATION   
 
-coming soon
+Coming soon
 
 
 
