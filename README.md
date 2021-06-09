@@ -69,7 +69,30 @@ The camera for face detection will only start to capture when the doorbell butto
 ![Coding](output.png)  
 
 ## D. PROJECT STRUCTURE
-COMING SOON
+The following directory is our structure of our project:
+
+$ tree --dirsfirst --filelimit 18
+.
+├── numpy as np
+├── face_recognition as fr
+├── cv2
+├── cv2.VideoCapture(0)
+├── fr.load_image_file("Khalid.jpg")
+├── fr.face_encodings(Khalid_image)[0]
+├── known_face_encondings = []
+├── nown_face_names
+├── video_capture.read()
+├── frame[:, :, ::-1]
+├── fr.face_locations(rgb_frame)
+├── fr.face_encodings(rgb_frame, face_locations)
+├── fr.compare_faces
+├── name = "Unknown"
+├── fr.face_distance
+├──best_match_index 
+├──cv2.rectangle 
+├──video_capture.release()
+18 files
+
 
 ## E.  RESULT AND CONCLUSION 
 
