@@ -70,7 +70,25 @@ The camera for face detection will only start to capture when the doorbell butto
 
 ## D. PROJECT STRUCTURE
 The following directory is our structure of our project:
-
+The following directory is our structure of our project:
+- $ tree --dirsfirst --filelimit 10
+- .
+- ├── dataset
+- │   ├── with_mask [690 entries]
+- │   └── without_mask [686 entries]
+- ├── examples
+- │   ├── example_01.png
+- │   ├── example_02.png
+- │   └── example_03.png
+- ├── face_detector
+- │   ├── deploy.prototxt
+- │   └── res10_300x300_ssd_iter_140000.caffemodel
+- ├── detect_mask_image.py
+- ├── detect_mask_video.py
+- ├── mask_detector.model
+- ├── plot.png
+- └── train_mask_detector.py
+- 5 directories, 10 files
 
 
 
