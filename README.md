@@ -104,7 +104,9 @@ $notebook
 Open the notebook named "Final Project Notebook.ipynb" and run all the source code in the notebook. First, we will load the dataset and pre-process it. Next, we will split the data in it for training and testing data. 82% of the data will be the training data and the remaining 18% will be testing data. After that, we will train the model and validate the result using the test data.
 
 Lastly, we will deploy the model with the following command:
+
 $python serverApp.py
+
 This will deploy the flask web application to test and use our model and will be hosted at localhost:4500. To port forward this localhost website to the public domain, we will be using ngrok to host it.
 
 We will port forward it to the public domain using the following command:
