@@ -69,26 +69,27 @@ The camera for face detection will only start to capture when the doorbell butto
 ![Coding](output.png)  
 
 ## D. PROJECT STRUCTURE
+
 The following directory is our structure of our project:
-The following directory is our structure of our project:
-- $ tree --dirsfirst --filelimit 10
+- $ tree --dirsfirst --filelimit 15
 - .
-- ├── dataset
-- │   ├── with_mask [690 entries]
-- │   └── without_mask [686 entries]
-- ├── examples
-- │   ├── example_01.png
-- │   ├── example_02.png
-- │   └── example_03.png
-- ├── face_detector
-- │   ├── deploy.prototxt
-- │   └── res10_300x300_ssd_iter_140000.caffemodel
-- ├── detect_mask_image.py
-- ├── detect_mask_video.py
-- ├── mask_detector.model
-- ├── plot.png
-- └── train_mask_detector.py
-- 5 directories, 10 files
+- ├── 
+- │   ├── numpy as np
+- │   └── face_recognition
+- ├── cv2
+- │   ├── cv2.VideoCapture(0)
+- │   ├── fr.load_image_file("Khalid.jpg")
+- │   └── fr.face_encodings(Khalid_image)[0]
+- ├── known_face_encondings = []
+- │   ├── nown_face_names
+- │   └── video_capture.read()
+- ├── fr.face_locations(rgb_frame)
+- ├── fr.compare_faces
+- ├── name = "Unknown"
+- ├── fr.face_distance
+- └── cv2.rectangle
+- └── video_capture.release()
+-  15 files
 
 
 
