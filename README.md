@@ -6,7 +6,7 @@
 
 **Team Members:** 
 
-![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/a403d0a2ed8b9981935344ccf74789c02f9e1633/our%20group.png)
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/d1617d51420a6316c2754ff6f7d53547584a4966/our%20group%20p.jpg)
 
 - [Md Ashraful Islam B032020050 ]
 - [Khalid Ali Farah  B032020051]
