@@ -135,5 +135,19 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 
 Coming soon
 
+## H. ACKNOWLEDGEMENT
+
+Sources that our group consults from:
+
+Author's name: Bruno Centeno
+
+He's account: https://github.com/brunocenteno
+
+Open Source Code: https://github.com/brunocenteno/face_recognition_video_tutorial/blob/master/face_reco_webcam.py
+
+Youtube Video: https://www.youtube.com/watch?v=lC_y8wD7F3Y
+
+
+
 
 
