@@ -31,7 +31,7 @@ This project is about an anti-theft security system using face recognition based
 
 It will verify the person identity that goes near to the camera within certain distance. Only the people who match the identity with database and key in the correct password have the right to entry. A mobile application telegram and image processing technique LBP based have been involved in this system. Electric door lock solenoid, keypad and LCD display will combined operate the accessibility of door. An ultrasonic sensor is used to detect the person distance between the door. Face recognition will only start to function when someone goes near the door within certain distance. An alert message and photo taken will send to owner mobile phone via telegram with WIFI when the face recognition algorithms detect a stranger comes near the door and also a buzzer will be triggered to act as an alarm system. Owner can control the door locker and check the camera with the telegram application. The security system is designed for actual use in home condition with the uses of a microcontroller ARM Quad Cortex-A53.
 
-![Coding](input+.png)
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/371f705bbfe889fc82b14fc12bb328894d5fd1b0/Pictures1.png)
 
 Figure 1 shows the AI intput of detecting face .
 
