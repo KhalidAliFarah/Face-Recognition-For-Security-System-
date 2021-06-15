@@ -4,7 +4,7 @@
 
 **Project Title:** Face Recognition (For Security System)
 
-## Team Members:
+## TEAM MEMBERS:
 
 ![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/d1617d51420a6316c2754ff6f7d53547584a4966/our%20group%20p.jpg)
 
