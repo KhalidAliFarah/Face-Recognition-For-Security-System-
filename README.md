@@ -133,8 +133,7 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 
 ## G.   PROJECT PRESENTATION   
 
-Coming soon
-
+[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
 ## H. ACKNOWLEDGEMENT
 
 Sources that our group consults from:
