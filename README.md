@@ -133,7 +133,8 @@ Finally, with the proper guidance and advice from lecturer, supervisor and also 
 
 ## G.   PROJECT PRESENTATION 
 
-**Click On This Image To View The Project Demo
+**Click On This Image To View The Project Demo**
+
 [![demo](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/b00d69565d0bb1523f2ca5226fb216b34d1dd43c/ai%20de.jpg)](https://drive.google.com/file/d/1_u71HHgX5kqW2yU-Xe9cqS8S45KrBTJz/view?usp=sharing)
 
 ## H. ACKNOWLEDGEMENT
