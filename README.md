@@ -149,6 +149,8 @@ Open Source Code: https://github.com/brunocenteno/face_recognition_video_tutoria
 
 Youtube Video: https://www.youtube.com/watch?v=lC_y8wD7F3Y
 
+I used this image for the design: https://governmentciomedia.com/leaders-tackle-current-federal-state-ai
+
 
 
 
