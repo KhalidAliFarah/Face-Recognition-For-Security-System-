@@ -49,12 +49,12 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
   
  *Load a sample picture and learn how to recognize it
  
- ![Coding](P.code/1.png) 
+ ![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/24b8371ebd3ebad86a1240e42f2703d245df55ca/src/images/1.png) 
  
 *Create arrays of known face encodings and their names
  
  
- ![Coding](P.code/2.png) 
+ ![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/24b8371ebd3ebad86a1240e42f2703d245df55ca/src/images/2.png) 
  
   *Example of results:
  
@@ -67,7 +67,7 @@ For the hardware part, a Raspberry pi 3 model B, Solenoid electric door locker, 
 Telegram 
 Telegram will send notify to owner about the surveillance status and capture photo. Telegram can be used to control the locker by sending command “On” or “Off” to control the locker and also capture photo by the command “C”. Command “S” can use to start a live cam and end it with the command “Stop”. Besides that, command “Shutdown” and “Rbt” can used to turn off the system and reboot the system. For checking the door access records can use command “Cr”. Time restrictions start time and finish time can be set with command “Rts d’DAY’ h’HOUR’ m’MINUTE’ ” and “Rtf d’DAY’ h’HOUR’ m’MINUTE’ ”.
 
-![Coding](Picture3.png)  
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/24b8371ebd3ebad86a1240e42f2703d245df55ca/src/images/4.png)  
 
 The camera for face detection will only start to capture when the doorbell button was pressed. It could be improved with install an infrared PIR motion sensor to detect the present of visitor so it will automate the action of pressing the doorbell. It would be more effective and can notify the house owner on time when any stranger present in the house. The security can be improved due to this modification.
 
