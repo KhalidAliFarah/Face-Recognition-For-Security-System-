@@ -151,6 +151,8 @@ Youtube Video: https://www.youtube.com/watch?v=lC_y8wD7F3Y
 
 I used this image for the design: https://governmentciomedia.com/leaders-tackle-current-federal-state-ai
 
+Information source: http://eprints.utar.edu.my/3058/1/fyp_CT_2018_CGY_-_1305524.pdf
+
 
 
 
