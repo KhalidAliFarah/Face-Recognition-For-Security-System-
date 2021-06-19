@@ -71,7 +71,7 @@ Telegram will send notify to owner about the surveillance status and capture pho
 
 The camera for face detection will only start to capture when the doorbell button was pressed. It could be improved with install an infrared PIR motion sensor to detect the present of visitor so it will automate the action of pressing the doorbell. It would be more effective and can notify the house owner on time when any stranger present in the house. The security can be improved due to this modification.
 
-![Coding](output.png)  
+![Coding](https://github.com/KhalidAliFarah/Face-Recognition-For-Security-System-/blob/24b8371ebd3ebad86a1240e42f2703d245df55ca/src/images/3.png)  
 
 ## D. PROJECT STRUCTURE
 
